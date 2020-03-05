@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583280784 source:c:\users\user\desktop\new folder\kk\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<ctime>
+	<sstream>
+

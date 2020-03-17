@@ -1,0 +1,1339 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 27673>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 12.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 37.62 Tm 0 Tr (  1  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 37.62 Tm 0 Tr (    ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 37.62 Tm 0 Tr (#include <iostream>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 48.96 Tm 0 Tr (  2  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 48.96 Tm 0 Tr (    ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 48.96 Tm 0 Tr (#include <windows.h>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 60.30 Tm 0 Tr (  3  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 60.30 Tm 0 Tr (    ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 60.30 Tm 0 Tr (#include <mysql.h>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 71.64 Tm 0 Tr (  4  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 71.64 Tm 0 Tr (    ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 71.64 Tm 0 Tr (#include <string>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 82.97 Tm 0 Tr (  5  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 82.97 Tm 0 Tr (    ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 82.97 Tm 0 Tr (#include <ctime>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 94.31 Tm 0 Tr (  6  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 94.31 Tm 0 Tr (    ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 94.31 Tm 0 Tr (#include<sstream>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 105.65 Tm 0 Tr (  7  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 116.99 Tm 0 Tr (  8  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 116.99 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 116.99 Tm 0 Tr (using namespace ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 208.35 116.99 Tm 0 Tr (std) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 116.99 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 128.33 Tm 0 Tr (  9  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 139.67 Tm 0 Tr ( 10  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 139.67 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 139.67 Tm 0 Tr (bool ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+129.15 130.40 93.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 139.67 Tm 0 Tr (insert_status) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 139.67 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 151.01 Tm 0 Tr ( 11  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 151.01 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 141.74 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 151.01 Tm 0 Tr (MYSQL) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 151.01 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 141.74 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 151.01 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 151.01 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 162.34 Tm 0 Tr ( 12  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 162.34 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 153.07 93.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 162.34 Tm 0 Tr (MYSQL_ROW row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 162.34 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 173.68 Tm 0 Tr ( 13  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 173.68 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 164.41 72.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 173.68 Tm 0 Tr (MYSQL_RES ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 173.68 Tm 0 Tr (*) Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 164.41 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 173.68 Tm 0 Tr (res) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 193.95 173.68 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 185.02 Tm 0 Tr ( 14  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 185.02 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 185.02 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+121.95 175.75 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 185.02 Tm 0 Tr (qstate) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 185.02 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 196.36 Tm 0 Tr ( 15  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 207.70 Tm 0 Tr ( 16  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 219.04 Tm 0 Tr ( 17  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 219.04 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 209.77 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 219.04 Tm 0 Tr (MYSQL) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 219.04 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 209.77 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 219.04 Tm 0 Tr (my) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 219.04 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 230.38 Tm 0 Tr ( 18  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 230.38 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 230.38 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 241.71 Tm 0 Tr ( 19  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 241.71 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 232.44 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 241.71 Tm 0 Tr (conn ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 241.71 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 232.44 72.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 241.71 Tm 0 Tr (mysql_init) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 241.71 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 222.75 241.71 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 241.71 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 253.05 Tm 0 Tr ( 20  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 253.05 Tm 0 Tr (    ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 93.15 253.05 Tm 0 Tr (//connect to a database pharmaccutical_industry) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 264.39 Tm 0 Tr ( 21  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 264.39 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 255.12 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 264.39 Tm 0 Tr (conn ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 264.39 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 255.12 129.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 264.39 Tm 0 Tr (mysql_real_connect) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 264.39 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+280.35 255.12 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 280.35 264.39 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 309.15 264.39 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 316.35 264.39 Tm 0 Tr ("localhost") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 395.55 264.39 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 402.75 264.39 Tm 0 Tr ("root") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 445.95 264.39 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 453.15 264.39 Tm 0 Tr ("") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 467.55 264.39 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 275.73 Tm 0 Tr ("pharmaccutical_industry") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 208.35 275.73 Tm 0 Tr (,) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 215.55 275.73 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 275.73 Tm 0 Tr (,) Tj  ET Q
+1.000 1.000 1.000 rg
+229.95 266.46 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 229.95 275.73 Tm 0 Tr (NULL) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 275.73 Tm 0 Tr (,) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 265.95 275.73 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 275.73 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 287.07 Tm 0 Tr ( 22  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 287.07 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 287.07 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+143.55 277.80 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 287.07 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 287.07 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 298.41 Tm 0 Tr ( 23  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 298.41 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 298.41 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 309.75 Tm 0 Tr ( 24  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 321.08 Tm 0 Tr ( 25  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 321.08 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 321.08 Tm 0 Tr (bool ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+129.15 311.81 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 321.08 Tm 0 Tr (var) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 321.08 Tm 0 Tr (\() Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 157.95 321.08 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+208.35 311.81 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 208.35 321.08 Tm 0 Tr (nu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 321.08 Tm 0 Tr (,) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 229.95 321.08 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+280.35 311.81 57.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 280.35 321.08 Tm 0 Tr (drugname) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 337.95 321.08 Tm 0 Tr (,) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 345.15 321.08 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+395.55 311.81 86.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 395.55 321.08 Tm 0 Tr (manufacturer) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 481.95 321.08 Tm 0 Tr (,) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 489.15 321.08 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+28.35 323.15 93.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 332.42 Tm 0 Tr (date_of_stock) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 332.42 Tm 0 Tr (,) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 129.15 332.42 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+179.55 323.15 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 179.55 332.42 Tm 0 Tr (expiry_date) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 332.42 Tm 0 Tr (,) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 265.95 332.42 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+316.35 323.15 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 316.35 332.42 Tm 0 Tr (detail) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 359.55 332.42 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 343.76 Tm 0 Tr ( 26  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 343.76 Tm 0 Tr (        ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 121.95 343.76 Tm 0 Tr (//add item to the database) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 355.10 Tm 0 Tr ( 27  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 355.10 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 355.10 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+143.55 345.83 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 355.10 Tm 0 Tr (query) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 179.55 355.10 Tm 0 Tr (=) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 186.75 355.10 Tm 0 Tr ("INSERT INTO) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 366.44 Tm 0 Tr (drugs\(id,drugname,manufacturer,date_of_stock,expiry_date,detail\) VALUES) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 377.78 Tm 0 Tr (\('") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 49.95 377.78 Tm 0 Tr (+) Tj  ET Q
+1.000 1.000 1.000 rg
+57.15 368.51 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 57.15 377.78 Tm 0 Tr (nu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 377.78 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 78.75 377.78 Tm 0 Tr ("','") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 377.78 Tm 0 Tr (+) Tj  ET Q
+1.000 1.000 1.000 rg
+121.95 368.51 57.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 377.78 Tm 0 Tr (drugname) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 179.55 377.78 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 186.75 377.78 Tm 0 Tr ("','") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 377.78 Tm 0 Tr (+) Tj  ET Q
+1.000 1.000 1.000 rg
+229.95 368.51 86.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 229.95 377.78 Tm 0 Tr (manufacturer) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 316.35 377.78 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 323.55 377.78 Tm 0 Tr ("','") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 359.55 377.78 Tm 0 Tr (+) Tj  ET Q
+1.000 1.000 1.000 rg
+366.75 368.51 93.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 366.75 377.78 Tm 0 Tr (date_of_stock) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 460.35 377.78 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 467.55 377.78 Tm 0 Tr ("','") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 503.55 377.78 Tm 0 Tr (+) Tj  ET Q
+1.000 1.000 1.000 rg
+28.35 379.85 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 389.12 Tm 0 Tr (expiry_date) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 389.12 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 114.75 389.12 Tm 0 Tr ("','") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 389.12 Tm 0 Tr (+) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 379.85 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 389.12 Tm 0 Tr (detail) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 389.12 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 208.35 389.12 Tm 0 Tr ("'\)") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 237.15 389.12 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 400.45 Tm 0 Tr ( 28  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 400.45 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 400.45 Tm 0 Tr (const char) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 400.45 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+179.55 391.18 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 179.55 400.45 Tm 0 Tr (q ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 193.95 400.45 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+208.35 391.18 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 208.35 400.45 Tm 0 Tr (query) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 400.45 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+251.55 391.18 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 251.55 400.45 Tm 0 Tr (c_str) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 400.45 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 411.79 Tm 0 Tr ( 29  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 411.79 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 402.52 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 411.79 Tm 0 Tr (qstate) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 411.79 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 402.52 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 411.79 Tm 0 Tr (mysql_query) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 411.79 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+229.95 402.52 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 229.95 411.79 Tm 0 Tr (my) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 411.79 Tm 0 Tr (\(\),) Tj  ET Q
+1.000 1.000 1.000 rg
+265.95 402.52 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 265.95 411.79 Tm 0 Tr (q) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 411.79 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 423.13 Tm 0 Tr ( 30  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 423.13 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 423.13 Tm 0 Tr (if) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 423.13 Tm 0 Tr (\(!) Tj  ET Q
+1.000 1.000 1.000 rg
+121.95 413.86 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 423.13 Tm 0 Tr (qstate) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 423.13 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 434.47 Tm 0 Tr ( 31  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 434.47 Tm 0 Tr (         ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 425.20 93.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 434.47 Tm 0 Tr (insert_status) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 434.47 Tm 0 Tr (=) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 229.95 434.47 Tm 0 Tr (true) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 434.47 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 445.81 Tm 0 Tr ( 32  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 445.81 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 445.81 Tm 0 Tr (}) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 100.35 445.81 Tm 0 Tr (else) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 445.81 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 457.15 Tm 0 Tr ( 33  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 457.15 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+121.95 447.88 93.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 457.15 Tm 0 Tr (insert_status) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 457.15 Tm 0 Tr (=) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 222.75 457.15 Tm 0 Tr (false) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 457.15 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 468.49 Tm 0 Tr ( 34  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 468.49 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 468.49 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 479.82 Tm 0 Tr ( 35  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 479.82 Tm 0 Tr (       ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 114.75 479.82 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+165.15 470.55 93.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 165.15 479.82 Tm 0 Tr (insert_status) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 479.82 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 491.16 Tm 0 Tr ( 36  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 491.16 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 491.16 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 502.50 Tm 0 Tr ( 37  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 513.84 Tm 0 Tr ( 38  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 513.84 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 513.84 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+121.95 504.57 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 513.84 Tm 0 Tr (main) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 513.84 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 525.18 Tm 0 Tr ( 39  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 525.18 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 525.18 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 536.52 Tm 0 Tr ( 40  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 536.52 Tm 0 Tr (        ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 121.95 536.52 Tm 0 Tr (//call the above method) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 547.86 Tm 0 Tr ( 41  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 547.86 Tm 0 Tr (        ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 121.95 547.86 Tm 0 Tr (//i.e call the database function) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 559.19 Tm 0 Tr ( 42  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 559.19 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 549.92 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 559.19 Tm 0 Tr (MYSQL) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 559.19 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 549.92 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 559.19 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 559.19 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+179.55 549.92 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 179.55 559.19 Tm 0 Tr (my) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 193.95 559.19 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 570.53 Tm 0 Tr ( 43  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 570.53 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 570.53 Tm 0 Tr (if) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 570.53 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+114.75 561.26 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 570.53 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 570.53 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 581.87 Tm 0 Tr ( 44  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 581.87 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 581.87 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 593.21 Tm 0 Tr ( 45  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 593.21 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 121.95 593.21 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+150.75 583.94 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 150.75 593.21 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 593.21 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 604.55 Tm 0 Tr ( 46  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 604.55 Tm 0 Tr (    ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 93.15 604.55 Tm 0 Tr (//create table drugs in the database for storing of register) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 28.35 615.89 Tm 0 Tr (drugs) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 627.23 Tm 0 Tr ( 47  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 627.23 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 627.23 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+143.55 617.96 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 627.23 Tm 0 Tr (query) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 179.55 627.23 Tm 0 Tr (=) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 186.75 627.23 Tm 0 Tr (" CREATE TABLE IF NOT EXISTS drugs\(id INT UNSIGNED) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 638.56 Tm 0 Tr (,drugname VARCHAR\(40\) NOT NULL,manufacturer VARCHAR\(40\) NOT) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 649.90 Tm 0 Tr (NULL,date_of_stock VARCHAR\(40\) NOT NULL,expiry_date VARCHAR\(40\) NOT) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 661.24 Tm 0 Tr (NULL,detail VARCHAR\(40\) NOT NULL\) ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 280.35 661.24 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 672.58 Tm 0 Tr ( 48  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 672.58 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 672.58 Tm 0 Tr (const char) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 672.58 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+179.55 663.31 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 179.55 672.58 Tm 0 Tr (q ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 193.95 672.58 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+208.35 663.31 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 208.35 672.58 Tm 0 Tr (query) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 672.58 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+251.55 663.31 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 251.55 672.58 Tm 0 Tr (c_str) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 672.58 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 683.92 Tm 0 Tr ( 49  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 683.92 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 674.65 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 683.92 Tm 0 Tr (mysql_query) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 683.92 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+179.55 674.65 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 179.55 683.92 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 208.35 683.92 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+222.75 674.65 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 222.75 683.92 Tm 0 Tr (q) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 683.92 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 695.26 Tm 0 Tr ( 50  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 706.60 Tm 0 Tr ( 51  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 717.93 Tm 0 Tr ( 52  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 717.93 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 717.93 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 717.93 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+136.35 708.66 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 136.35 717.93 Tm 0 Tr (mysql_error) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 717.93 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+222.75 708.66 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 222.75 717.93 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 251.55 717.93 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 729.27 Tm 0 Tr ( 53  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 729.27 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 729.27 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 729.27 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 136.35 729.27 Tm 0 Tr ("1\) Press 1 to insert data to the database\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 460.35 729.27 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 740.61 Tm 0 Tr ( 54  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 740.61 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 740.61 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 740.61 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 136.35 740.61 Tm 0 Tr ("2\) Press 2 to display drugname registered on the) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 751.95 Tm 0 Tr (database\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 751.95 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 763.29 Tm 0 Tr ( 55  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 763.29 Tm 0 Tr (    ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 93.15 763.29 Tm 0 Tr (//cout<<"3\) Press 1 to update data in the database\\n\\n";) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 774.63 Tm 0 Tr ( 56  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 774.63 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 774.63 Tm 0 Tr (do) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 774.63 Tm 0 Tr ({) Tj  ET Q
+Q
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 33485>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 12.00 Tf ET
+0 G
+1.000 1.000 1.000 rg
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 37.62 Tm 0 Tr ( 57  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 37.62 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 37.62 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 37.62 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 136.35 37.62 Tm 0 Tr ("\\nEnter choice\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 265.95 37.62 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 48.96 Tm 0 Tr ( 58  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 48.96 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 48.96 Tm 0 Tr (cin) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 48.96 Tm 0 Tr (>>) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 39.69 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 48.96 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 48.96 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 60.30 Tm 0 Tr ( 59  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 71.64 Tm 0 Tr ( 60  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 71.64 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 71.64 Tm 0 Tr (if) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 71.64 Tm 0 Tr (\(\() Tj  ET Q
+1.000 1.000 1.000 rg
+121.95 62.37 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 71.64 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 71.64 Tm 0 Tr (==) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 143.55 71.64 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 71.64 Tm 0 Tr (\)\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 82.97 Tm 0 Tr ( 61  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 82.97 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 82.97 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+143.55 73.70 64.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 82.97 Tm 0 Tr (drug_name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 208.35 82.97 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 94.31 Tm 0 Tr ( 62  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 105.65 Tm 0 Tr ( 63  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 105.65 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 105.65 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 105.65 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 136.35 105.65 Tm 0 Tr ("Enter the drug name you want to add to database:\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 510.75 105.65 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 116.99 Tm 0 Tr ( 64  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 116.99 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 107.72 50.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 116.99 Tm 0 Tr (getline) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 116.99 Tm 0 Tr (\() Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 150.75 116.99 Tm 0 Tr (cin) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 116.99 Tm 0 Tr (,) Tj  ET Q
+1.000 1.000 1.000 rg
+179.55 107.72 64.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 179.55 116.99 Tm 0 Tr (drug_name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 116.99 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 128.33 Tm 0 Tr ( 65  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 128.33 Tm 0 Tr (    ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 93.15 128.33 Tm 0 Tr (//getline\(cin,drug_name\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 139.67 Tm 0 Tr ( 66  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 139.67 Tm 0 Tr (    ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 93.15 139.67 Tm 0 Tr (//select all drugs from database) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 151.01 Tm 0 Tr ( 67  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 151.01 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 151.01 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+143.55 141.74 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 151.01 Tm 0 Tr (que) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 151.01 Tm 0 Tr (=) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 172.35 151.01 Tm 0 Tr ("SELECT *FROM drugs WHERE drugname ='") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 445.95 151.01 Tm 0 Tr (+) Tj  ET Q
+1.000 1.000 1.000 rg
+453.15 141.74 64.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 453.15 151.01 Tm 0 Tr (drug_name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 517.95 151.01 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 525.15 151.01 Tm 0 Tr ("'") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 546.75 151.01 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 162.34 Tm 0 Tr ( 68  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 173.68 Tm 0 Tr ( 69  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 173.68 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 173.68 Tm 0 Tr (const char) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 173.68 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+179.55 164.41 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 179.55 173.68 Tm 0 Tr (qu ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 173.68 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 164.41 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 173.68 Tm 0 Tr (que) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 237.15 173.68 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+244.35 164.41 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 244.35 173.68 Tm 0 Tr (c_str) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 280.35 173.68 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 185.02 Tm 0 Tr ( 70  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 196.36 Tm 0 Tr ( 71  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 196.36 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 187.09 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 196.36 Tm 0 Tr (qstate) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 196.36 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 187.09 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 196.36 Tm 0 Tr (mysql_query) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 196.36 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+229.95 187.09 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 229.95 196.36 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 196.36 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+273.15 187.09 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 273.15 196.36 Tm 0 Tr (qu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 196.36 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 207.70 Tm 0 Tr ( 72  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 207.70 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 198.43 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 207.70 Tm 0 Tr (res ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 207.70 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+136.35 198.43 129.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 136.35 207.70 Tm 0 Tr (mysql_store_result) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 265.95 207.70 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+273.15 198.43 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 273.15 207.70 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 301.95 207.70 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 219.04 Tm 0 Tr ( 73  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 219.04 Tm 0 Tr (    ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 93.15 219.04 Tm 0 Tr (//fetch rows of the database to get each of the element) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 230.38 Tm 0 Tr ( 74  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 230.38 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 221.11 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 230.38 Tm 0 Tr (row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 230.38 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+121.95 221.11 108.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 230.38 Tm 0 Tr (mysql_fetch_row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 230.38 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+237.15 221.11 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 237.15 230.38 Tm 0 Tr (res) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 230.38 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 241.71 Tm 0 Tr ( 75  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 241.71 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 241.71 Tm 0 Tr (if) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 241.71 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+114.75 232.44 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 241.71 Tm 0 Tr (row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 241.71 Tm 0 Tr (==) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 150.75 241.71 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 241.71 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 253.05 Tm 0 Tr ( 76  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 253.05 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 121.95 253.05 Tm 0 Tr (time_t ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+172.35 243.78 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 253.05 Tm 0 Tr (now ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 253.05 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 243.78 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 253.05 Tm 0 Tr (time) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 253.05 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 251.55 253.05 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 253.05 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 264.39 Tm 0 Tr ( 77  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 264.39 Tm 0 Tr (       ) Tj  ET Q
+1.000 1.000 1.000 rg
+114.75 255.12 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 264.39 Tm 0 Tr (tm ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 264.39 Tm 0 Tr (*) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 255.12 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 264.39 Tm 0 Tr (ltm ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 264.39 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+186.75 255.12 64.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 186.75 264.39 Tm 0 Tr (localtime) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 251.55 264.39 Tm 0 Tr (\(&) Tj  ET Q
+1.000 1.000 1.000 rg
+265.95 255.12 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 265.95 264.39 Tm 0 Tr (now) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 264.39 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 275.73 Tm 0 Tr ( 78  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 287.07 Tm 0 Tr ( 79  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 287.07 Tm 0 Tr (            ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 150.75 287.07 Tm 0 Tr (//register the drug manufacturer into the database) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 298.41 Tm 0 Tr ( 80  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 298.41 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 298.41 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+172.35 289.14 86.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 298.41 Tm 0 Tr (manufacturer) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 298.41 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 309.75 Tm 0 Tr ( 81  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 309.75 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 309.75 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 309.75 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 165.15 309.75 Tm 0 Tr ("Enter the manufacturer of the drug:\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 445.95 309.75 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 321.08 Tm 0 Tr ( 82  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 321.08 Tm 0 Tr (        ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 121.95 321.08 Tm 0 Tr (//getline is used to obtain data from input) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 332.42 Tm 0 Tr ( 83  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 332.42 Tm 0 Tr (      ) Tj  ET Q
+1.000 1.000 1.000 rg
+107.55 323.15 50.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 107.55 332.42 Tm 0 Tr (getline) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 332.42 Tm 0 Tr (\() Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 165.15 332.42 Tm 0 Tr (cin) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 332.42 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+201.15 323.15 86.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 201.15 332.42 Tm 0 Tr (manufacturer) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 332.42 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 343.76 Tm 0 Tr ( 84  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 355.10 Tm 0 Tr ( 85  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 355.10 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 355.10 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+121.95 345.83 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 355.10 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 355.10 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+136.35 345.83 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 136.35 355.10 Tm 0 Tr (ltm) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 355.10 Tm 0 Tr (->) Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 345.83 50.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 355.10 Tm 0 Tr (tm_mday) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 355.10 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 366.44 Tm 0 Tr ( 86  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 366.44 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 366.44 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+121.95 357.17 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 366.44 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 366.44 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+136.35 357.17 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 136.35 366.44 Tm 0 Tr (ltm) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 366.44 Tm 0 Tr (->) Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 357.17 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 366.44 Tm 0 Tr (tm_mon) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 366.44 Tm 0 Tr (+) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 222.75 366.44 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 366.44 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 377.78 Tm 0 Tr ( 87  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 377.78 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 377.78 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+121.95 368.51 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 121.95 377.78 Tm 0 Tr (z) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 377.78 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+136.35 368.51 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 136.35 377.78 Tm 0 Tr (ltm) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 377.78 Tm 0 Tr (->) Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 368.51 50.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 377.78 Tm 0 Tr (tm_year) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 377.78 Tm 0 Tr (+) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 229.95 377.78 Tm 0 Tr (1900) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 377.78 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 389.12 Tm 0 Tr ( 88  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 389.12 Tm 0 Tr (     ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 100.35 389.12 Tm 0 Tr (stringstream ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+193.95 379.85 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 193.95 389.12 Tm 0 Tr (ss) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 208.35 389.12 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 400.45 Tm 0 Tr ( 89  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 400.45 Tm 0 Tr (      ) Tj  ET Q
+1.000 1.000 1.000 rg
+107.55 391.18 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 107.55 400.45 Tm 0 Tr (ss) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 400.45 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+136.35 391.18 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 136.35 400.45 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 400.45 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 411.79 Tm 0 Tr ( 90  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 411.79 Tm 0 Tr (      ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 107.55 411.79 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+157.95 402.52 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 411.79 Tm 0 Tr (s) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 411.79 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 423.13 Tm 0 Tr ( 91  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 423.13 Tm 0 Tr (      ) Tj  ET Q
+1.000 1.000 1.000 rg
+107.55 413.86 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 107.55 423.13 Tm 0 Tr (ss) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 423.13 Tm 0 Tr (>>) Tj  ET Q
+1.000 1.000 1.000 rg
+136.35 413.86 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 136.35 423.13 Tm 0 Tr (s) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 423.13 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 434.47 Tm 0 Tr ( 92  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 434.47 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 434.47 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+143.55 425.20 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 434.47 Tm 0 Tr (x1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 434.47 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+165.15 425.20 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 165.15 434.47 Tm 0 Tr (s) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 434.47 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 445.81 Tm 0 Tr ( 93  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 457.15 Tm 0 Tr ( 94  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 457.15 Tm 0 Tr (     ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 100.35 457.15 Tm 0 Tr (stringstream ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+193.95 447.88 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 193.95 457.15 Tm 0 Tr (sos) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 457.15 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 468.49 Tm 0 Tr ( 95  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 479.82 Tm 0 Tr ( 96  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 479.82 Tm 0 Tr (      ) Tj  ET Q
+1.000 1.000 1.000 rg
+107.55 470.55 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 107.55 479.82 Tm 0 Tr (sos) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 479.82 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 470.55 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 479.82 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 479.82 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 491.16 Tm 0 Tr ( 97  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 491.16 Tm 0 Tr (      ) Tj  ET Q
+1.000 1.000 1.000 rg
+107.55 481.89 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 107.55 491.16 Tm 0 Tr (sos) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 491.16 Tm 0 Tr (>>) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 481.89 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 491.16 Tm 0 Tr (s) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 491.16 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 502.50 Tm 0 Tr ( 98  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 502.50 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 502.50 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+143.55 493.23 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 502.50 Tm 0 Tr (y1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 502.50 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+165.15 493.23 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 165.15 502.50 Tm 0 Tr (s) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 502.50 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 513.84 Tm 0 Tr ( 99  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 513.84 Tm 0 Tr (     ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 100.35 513.84 Tm 0 Tr (stringstream ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+193.95 504.57 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 193.95 513.84 Tm 0 Tr (soso) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 513.84 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 525.18 Tm 0 Tr (100  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 536.52 Tm 0 Tr (101  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 536.52 Tm 0 Tr (      ) Tj  ET Q
+1.000 1.000 1.000 rg
+107.55 527.25 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 107.55 536.52 Tm 0 Tr (soso) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 536.52 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+150.75 527.25 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 150.75 536.52 Tm 0 Tr (z) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 536.52 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 547.86 Tm 0 Tr (102  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 547.86 Tm 0 Tr (      ) Tj  ET Q
+1.000 1.000 1.000 rg
+107.55 538.59 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 107.55 547.86 Tm 0 Tr (soso) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 547.86 Tm 0 Tr (>>) Tj  ET Q
+1.000 1.000 1.000 rg
+150.75 538.59 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 150.75 547.86 Tm 0 Tr (s) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 547.86 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 559.19 Tm 0 Tr (103  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 570.53 Tm 0 Tr (104  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 581.87 Tm 0 Tr (105  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 581.87 Tm 0 Tr (     ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 100.35 581.87 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+150.75 572.60 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 150.75 581.87 Tm 0 Tr (z1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 581.87 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 572.60 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 581.87 Tm 0 Tr (s) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 179.55 581.87 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 593.21 Tm 0 Tr (106  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 593.21 Tm 0 Tr (     ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 100.35 593.21 Tm 0 Tr (//the stock date is the default date of the system;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 604.55 Tm 0 Tr (107  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 604.55 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 604.55 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+172.35 595.28 93.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 604.55 Tm 0 Tr (date_of_stock) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 265.95 604.55 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+273.15 595.28 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 273.15 604.55 Tm 0 Tr (x1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 604.55 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 294.75 604.55 Tm 0 Tr ("/") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 316.35 604.55 Tm 0 Tr (+) Tj  ET Q
+1.000 1.000 1.000 rg
+323.55 595.28 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 323.55 604.55 Tm 0 Tr (y1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 337.95 604.55 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 345.15 604.55 Tm 0 Tr ("/") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 366.75 604.55 Tm 0 Tr (+) Tj  ET Q
+1.000 1.000 1.000 rg
+373.95 595.28 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 373.95 604.55 Tm 0 Tr (z1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 388.35 604.55 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 615.89 Tm 0 Tr (108  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 615.89 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 615.89 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+172.35 606.62 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 615.89 Tm 0 Tr (expiry_date) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 251.55 615.89 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 627.23 Tm 0 Tr (109  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 627.23 Tm 0 Tr (        ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 121.95 627.23 Tm 0 Tr (//enter the expire date of the drug) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 638.56 Tm 0 Tr (110  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 638.56 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 638.56 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 638.56 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 165.15 638.56 Tm 0 Tr ("Enter the expiring date of the drug:\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 453.15 638.56 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 649.90 Tm 0 Tr (111  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 649.90 Tm 0 Tr (      ) Tj  ET Q
+1.000 1.000 1.000 rg
+107.55 640.63 50.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 107.55 649.90 Tm 0 Tr (getline) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 649.90 Tm 0 Tr (\() Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 165.15 649.90 Tm 0 Tr (cin) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 649.90 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+201.15 640.63 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 201.15 649.90 Tm 0 Tr (expiry_date) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 280.35 649.90 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 661.24 Tm 0 Tr (112  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 661.24 Tm 0 Tr (      ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 107.55 661.24 Tm 0 Tr (//description of the drug on hat kind of work its doing) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 672.58 Tm 0 Tr (113  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 672.58 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 672.58 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+172.35 663.31 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 672.58 Tm 0 Tr (detail) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 672.58 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 683.92 Tm 0 Tr (114  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 683.92 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 683.92 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 683.92 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 165.15 683.92 Tm 0 Tr ("Enter the details of the drug:\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 409.95 683.92 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 695.26 Tm 0 Tr (115  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 695.26 Tm 0 Tr (      ) Tj  ET Q
+1.000 1.000 1.000 rg
+107.55 685.99 50.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 107.55 695.26 Tm 0 Tr (getline) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 695.26 Tm 0 Tr (\() Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 165.15 695.26 Tm 0 Tr (cin) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 695.26 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+201.15 685.99 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 201.15 695.26 Tm 0 Tr (detail) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 695.26 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 706.60 Tm 0 Tr (116  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 706.60 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 706.60 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+172.35 697.33 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 706.60 Tm 0 Tr (nu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 706.60 Tm 0 Tr (=) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 193.95 706.60 Tm 0 Tr ("6") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 706.60 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 717.93 Tm 0 Tr (117  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 729.27 Tm 0 Tr (118  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 729.27 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 729.27 Tm 0 Tr (bool ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+129.15 720.00 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 729.27 Tm 0 Tr (u) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 729.27 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 720.00 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 729.27 Tm 0 Tr (var) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 729.27 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 720.00 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 729.27 Tm 0 Tr (NULL) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 729.27 Tm 0 Tr (,) Tj  ET Q
+1.000 1.000 1.000 rg
+208.35 720.00 64.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 208.35 729.27 Tm 0 Tr (drug_name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 729.27 Tm 0 Tr (,) Tj  ET Q
+1.000 1.000 1.000 rg
+280.35 720.00 86.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 280.35 729.27 Tm 0 Tr (manufacturer) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 366.75 729.27 Tm 0 Tr (,) Tj  ET Q
+1.000 1.000 1.000 rg
+373.95 720.00 93.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 373.95 729.27 Tm 0 Tr (date_of_stock) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 467.55 729.27 Tm 0 Tr (,) Tj  ET Q
+1.000 1.000 1.000 rg
+474.75 720.00 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 474.75 729.27 Tm 0 Tr (expiry_date) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 553.95 729.27 Tm 0 Tr (,) Tj  ET Q
+1.000 1.000 1.000 rg
+28.35 731.34 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 740.61 Tm 0 Tr (detail) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 740.61 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 751.95 Tm 0 Tr (119  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 751.95 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 751.95 Tm 0 Tr (if) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 751.95 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+114.75 742.68 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 751.95 Tm 0 Tr (u) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 751.95 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 763.29 Tm 0 Tr (120  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 763.29 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 763.29 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 763.29 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 165.15 763.29 Tm 0 Tr ("\\n ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 763.29 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 754.02 64.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 763.29 Tm 0 Tr (drug_name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 280.35 763.29 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 294.75 763.29 Tm 0 Tr (" is registered successfully") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 503.55 763.29 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 774.63 Tm 0 Tr (121  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 774.63 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 774.63 Tm 0 Tr (}) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 100.35 774.63 Tm 0 Tr (else) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 774.63 Tm 0 Tr ({) Tj  ET Q
+Q
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 16056>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 12.00 Tf ET
+0 G
+1.000 1.000 1.000 rg
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 37.62 Tm 0 Tr (122  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 37.62 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 37.62 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 37.62 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 165.15 37.62 Tm 0 Tr ("\\n unable to register") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 330.75 37.62 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+345.15 28.35 64.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 345.15 37.62 Tm 0 Tr (drug_name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 409.95 37.62 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 424.35 37.62 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 453.15 37.62 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 48.96 Tm 0 Tr (123  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 48.96 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 48.96 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 60.30 Tm 0 Tr (124  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 71.64 Tm 0 Tr (125  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 82.97 Tm 0 Tr (126  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 82.97 Tm 0 Tr (        ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 121.95 82.97 Tm 0 Tr (//row=mysql_fetch_row\(res\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 94.31 Tm 0 Tr (127  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 105.65 Tm 0 Tr (128  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 116.99 Tm 0 Tr (129  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 116.99 Tm 0 Tr (      ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 116.99 Tm 0 Tr (} ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 121.95 116.99 Tm 0 Tr (else) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 116.99 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 128.33 Tm 0 Tr (130  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 128.33 Tm 0 Tr (           ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 143.55 128.33 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 128.33 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 186.75 128.33 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 128.33 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+229.95 119.06 64.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 229.95 128.33 Tm 0 Tr (drug_name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 294.75 128.33 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 309.15 128.33 Tm 0 Tr (" Aready exist\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 431.55 128.33 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 139.67 Tm 0 Tr (131  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 151.01 Tm 0 Tr (132  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 162.34 Tm 0 Tr (133  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 173.68 Tm 0 Tr (134  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 173.68 Tm 0 Tr (      ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 173.68 Tm 0 Tr (}}) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 121.95 173.68 Tm 0 Tr (else if) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 173.68 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+179.55 164.41 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 179.55 173.68 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 173.68 Tm 0 Tr (==) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 201.15 173.68 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 208.35 173.68 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 185.02 Tm 0 Tr (135  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 185.02 Tm 0 Tr (    ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 93.15 185.02 Tm 0 Tr (//select from database drug) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 196.36 Tm 0 Tr (136  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 207.70 Tm 0 Tr (137  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 207.70 Tm 0 Tr (      ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 107.55 207.70 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 12.00 Tf ET
+1.000 1.000 1.000 rg
+157.95 198.43 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 207.70 Tm 0 Tr (que) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 179.55 207.70 Tm 0 Tr (=) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 186.75 207.70 Tm 0 Tr ("SELECT *FROM drugs ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 337.95 207.70 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 219.04 Tm 0 Tr (138  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 219.04 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 219.04 Tm 0 Tr (const char) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 165.15 219.04 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+179.55 209.77 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 179.55 219.04 Tm 0 Tr (qu ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 219.04 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 209.77 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 219.04 Tm 0 Tr (que) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 237.15 219.04 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+244.35 209.77 36.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 244.35 219.04 Tm 0 Tr (c_str) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 280.35 219.04 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 230.38 Tm 0 Tr (139  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 241.71 Tm 0 Tr (140  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 241.71 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 232.44 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 241.71 Tm 0 Tr (qstate) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 241.71 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 232.44 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 241.71 Tm 0 Tr (mysql_query) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 241.71 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+229.95 232.44 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 229.95 241.71 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 241.71 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+273.15 232.44 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 273.15 241.71 Tm 0 Tr (qu) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 241.71 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 253.05 Tm 0 Tr (141  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 253.05 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+93.15 243.78 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 93.15 253.05 Tm 0 Tr (res ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 253.05 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+136.35 243.78 129.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 136.35 253.05 Tm 0 Tr (mysql_store_result) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 265.95 253.05 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+273.15 243.78 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 273.15 253.05 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 301.95 253.05 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 264.39 Tm 0 Tr (142  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 264.39 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 93.15 264.39 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 264.39 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 136.35 264.39 Tm 0 Tr ("Drugname ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 264.39 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 229.95 264.39 Tm 0 Tr (" \\t Manufacturer") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 359.55 264.39 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 373.95 264.39 Tm 0 Tr (" \\t Date of stock ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 517.95 264.39 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 532.35 264.39 Tm 0 Tr ("\\t) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 28.35 275.73 Tm 0 Tr (Expiry date ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 121.95 275.73 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 136.35 275.73 Tm 0 Tr ("\\t Detail \\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 237.15 275.73 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 287.07 Tm 0 Tr (143  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 298.41 Tm 0 Tr (144  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 298.41 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 93.15 298.41 Tm 0 Tr (while) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 298.41 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+136.35 289.14 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 136.35 298.41 Tm 0 Tr (row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 298.41 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+165.15 289.14 108.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 165.15 298.41 Tm 0 Tr (mysql_fetch_row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 298.41 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+280.35 289.14 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 280.35 298.41 Tm 0 Tr (res) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 301.95 298.41 Tm 0 Tr (\)\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 309.75 Tm 0 Tr (145  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 309.75 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 121.95 309.75 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 309.75 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+165.15 300.48 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 165.15 309.75 Tm 0 Tr (row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 309.75 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 193.95 309.75 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 309.75 Tm 0 Tr (]<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 222.75 309.75 Tm 0 Tr ("\\t      ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 294.75 309.75 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+309.15 300.48 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 309.15 309.75 Tm 0 Tr (row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 330.75 309.75 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 337.95 309.75 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 345.15 309.75 Tm 0 Tr (]<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 366.75 309.75 Tm 0 Tr (" \\t") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 402.75 309.75 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+417.15 300.48 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 417.15 309.75 Tm 0 Tr (row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 438.75 309.75 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 445.95 309.75 Tm 0 Tr (3) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 453.15 309.75 Tm 0 Tr (]<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 474.75 309.75 Tm 0 Tr ("  \\t      ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 321.08 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+42.75 311.81 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 42.75 321.08 Tm 0 Tr (row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 64.35 321.08 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 71.55 321.08 Tm 0 Tr (4) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 78.75 321.08 Tm 0 Tr (]<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 321.08 Tm 0 Tr ("    \\t  ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 321.08 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+186.75 311.81 21.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 186.75 321.08 Tm 0 Tr (row) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 208.35 321.08 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 215.55 321.08 Tm 0 Tr (5) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 222.75 321.08 Tm 0 Tr (]<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 244.35 321.08 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 321.08 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 332.42 Tm 0 Tr (146  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 343.76 Tm 0 Tr (147  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 343.76 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 343.76 Tm 0 Tr (};) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 355.10 Tm 0 Tr (148  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 366.44 Tm 0 Tr (149  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 366.44 Tm 0 Tr (      ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 107.55 366.44 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 377.78 Tm 0 Tr (150  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 377.78 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 377.78 Tm 0 Tr (}) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 100.35 377.78 Tm 0 Tr (while) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 377.78 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 368.51 7.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 377.78 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 150.75 377.78 Tm 0 Tr (!=) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 165.15 377.78 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 377.78 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 389.12 Tm 0 Tr (151  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 389.12 Tm 0 Tr (       ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 389.12 Tm 0 Tr (}  ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 136.35 389.12 Tm 0 Tr (else) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 400.45 Tm 0 Tr (152  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 400.45 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 150.75 400.45 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 179.55 400.45 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 193.95 400.45 Tm 0 Tr ("connection problem: ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 352.35 400.45 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+366.75 391.18 79.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 366.75 400.45 Tm 0 Tr (mysql_error) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 445.95 400.45 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+453.15 391.18 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 453.15 400.45 Tm 0 Tr (conn) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 481.95 400.45 Tm 0 Tr (\)<<) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 503.55 400.45 Tm 0 Tr (endl) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 532.35 400.45 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 411.79 Tm 0 Tr (153  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 423.13 Tm 0 Tr (154  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 423.13 Tm 0 Tr (       ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 114.75 423.13 Tm 0 Tr (// cout << "Hello world!" << endl;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 434.47 Tm 0 Tr (155  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 434.47 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 12.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 121.95 434.47 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 12.00 Tf ET
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 172.35 434.47 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 179.55 434.47 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 445.81 Tm 0 Tr (156  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 64.35 445.81 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 93.15 445.81 Tm 0 Tr (}) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+9 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 9 0 R
+/F1 10 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+11 0 obj
+<<
+/Names []
+>>
+endobj
+12 0 obj
+<<
+/Producer (þÿ w x P d f D o c u m e n t   0 . 9 . 5)
+/CreationDate (D:20200310090237)
+>>
+endobj
+13 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000077643 00000 n 
+0000077938 00000 n 
+0000000009 00000 n 
+0000000098 00000 n 
+0000027822 00000 n 
+0000027911 00000 n 
+0000061447 00000 n 
+0000061536 00000 n 
+0000077744 00000 n 
+0000077843 00000 n 
+0000078053 00000 n 
+0000078085 00000 n 
+0000078193 00000 n 
+trailer
+<<
+/Size 14
+/Root 13 0 R
+/Info 12 0 R
+>>
+startxref
+78297
+%%EOF

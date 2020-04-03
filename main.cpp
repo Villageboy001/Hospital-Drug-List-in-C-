@@ -12,6 +12,7 @@ int main()
    char * user = "root";
     char *password = "";
     char *db = "cplusplus";
+/*c++ database connection */
 
     conn = mysql_init(NULL);
     conn = mysql_real_connect(conn, server, user, password,db, 0 , NULL,0);
